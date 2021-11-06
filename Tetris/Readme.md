@@ -2,6 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
+This personnal project is a simple Tetris with a scoreboard. The goal was to recreate this game in C++ using a game library : Raylib.
 
 ## To start
 
