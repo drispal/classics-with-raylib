@@ -1,6 +1,0 @@
-﻿  GameBoard.cpp
-C:\Users\damie\source\repos\Tetris\Tetris\GameBoard.h(9,10): fatal error C1083: Cannot open include file: 'raylib.h': No such file or directory
-  piece.cpp
-C:\Users\damie\source\repos\Tetris\Tetris\piece.h(9,10): fatal error C1083: Cannot open include file: 'raylib.h': No such file or directory
-  Source.cpp
-C:\Users\damie\source\repos\Tetris\Tetris\Source.cpp(7,10): fatal error C1083: Cannot open include file: 'raylib.h': No such file or directory
