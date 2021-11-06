@@ -9,7 +9,7 @@ This personnal project is a simple Tetris with a scoreboard. The goal was to rec
 1. Download the entire project
 2. You can launch the game through Visual Studio 2019 or by the Tetris.exe file in the directory Debug.
 
-**WARNING :** If you choose tolaunch the game with VS2019, be sure that you use x86.
+**WARNING :** If you choose to launch the game with VS2019, be sure that you use x86.
 
 ## Made with
 
