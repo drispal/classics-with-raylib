@@ -11,6 +11,10 @@ This personnal project is a lookalike of the famous game Space Invaders. The goa
 
 **WARNING :** If you choose to launch the game with VS2019, be sure that you use x86.
 
+## Controls
+
+Use left and right arrow keys to move your spaceship and press space bar to shoot.
+
 ## Improvements
 
 The project can be improved in many ways :
