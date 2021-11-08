@@ -3,7 +3,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
 The goal of this personnal project was to recreate famous games form the 80's in C++ using the game library [Raylib](https://www.raylib.com/).
-Games are not complete and some bugs may occur but the idea is here.
+There is a lot of room for improvment and some bugs may occur but the idea is here.
 
 
 ## Raylib
