@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
-This personnal project is a lookalike of the famous game Space Invaders. The goal was to recreate this game in C++ using a game library : Raylib.
+This personnal project is a lookalike of the famous game Space Invaders. The goal was to recreate this game in C++ by using a game library : Raylib.
 
 ## To start
 
@@ -20,7 +20,7 @@ Use left and right arrow keys to move your spaceship and press space bar to shoo
 The project can be improved in many ways :
 * Better balancing of the game
 * End of the game when an invader reach the bottom (That is the original end game mechanic)
-* Cancel of an ennemy missile by shooting it
+* Cancel ennemy missile by shooting it
 * Add bonus
 * Add different kinds of ennemies
 
