@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
-The goal of this personnal project was to recreate famous games form the 80's in C++ using the game library [Raylib](https://www.raylib.com/).
+The goal of this personnal project was to recreate famous games from the 80's in C++ by using the game library [Raylib](https://www.raylib.com/).
 There is a lot of room for improvment and some bugs may occur but the idea is here.
 
 ## Games
@@ -25,7 +25,7 @@ LinkedIn of Ramon : https://www.linkedin.com/in/raysan/
 
 ## QUIT GAME
 
-In each games if at some point you want to stop playing, just press ESC key.
+In each games, if at some point you want to stop playing, just press ESC key.
 
 ## Author
 
