@@ -10,6 +10,7 @@ There is a lot of room for improvment and some bugs may occur but the idea is he
 * [Snake](https://github.com/drispal/classics-with-raylib/tree/main/Snake)
 * [Space Invader](https://github.com/drispal/classics-with-raylib/tree/main/Space%20Invader)
 * [Tetris](https://github.com/drispal/classics-with-raylib/tree/main/Tetris)
+* Pac Man (coming soon)
 
 ## Raylib
 
