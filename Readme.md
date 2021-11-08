@@ -5,6 +5,11 @@
 The goal of this personnal project was to recreate famous games form the 80's in C++ using the game library [Raylib](https://www.raylib.com/).
 There is a lot of room for improvment and some bugs may occur but the idea is here.
 
+## Games
+* [Pong](https://github.com/drispal/classics-with-raylib/tree/main/Pong)
+* [Snake](https://github.com/drispal/classics-with-raylib/tree/main/Snake)
+* [Space Invader](https://github.com/drispal/classics-with-raylib/tree/main/Space%20Invader)
+* [Tetris](https://github.com/drispal/classics-with-raylib/tree/main/Tetris)
 
 ## Raylib
 
