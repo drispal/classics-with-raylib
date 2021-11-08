@@ -15,7 +15,7 @@ This personnal project is a lookalike of the famous game Space Invaders. The goa
 
 Use left and right arrow keys to move your spaceship and press space bar to shoot.
 
-## Improvements
+## Improvments
 
 The project can be improved in many ways :
 * Better balancing of the game
