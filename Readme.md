@@ -17,6 +17,10 @@ Source : [Wikipedia](https://en.wikipedia.org/wiki/Raylib)
 
 LinkedIn of Ramon : https://www.linkedin.com/in/raysan/
 
+## QUIT GAME
+
+In each games if at some point you want to stop playing, just press ESC key.
+
 ## Author
 
 * **Damien-Joseph Rispal** _alias_ [drispal](https://github.com/drispal)
