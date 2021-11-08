@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
-This personnal project is a lookalike of the famous game Pong. The goal was to recreate this game in C++ using a game library : Raylib.
+This personnal project is a lookalike of the famous game Pong. The goal was to recreate this game in C++ by using a game library : Raylib.
 
 ## To start
 
