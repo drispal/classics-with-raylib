@@ -13,7 +13,7 @@ This personnal project is a lookalike of the famous game Snake. The goal was to 
 
 ## Controls
 
-Use ARROW KEYS to move the snake through the screen, you can go out the screen but if touch your tail you loose.
+Use ARROW KEYS to move the snake through the screen, you can go out the screen but if you touch your tail you loose.
 
 ## Made with
 
